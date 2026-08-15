@@ -1,0 +1,11 @@
+{
+  "name": "prompt-enhancer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MERN-style prompt enhancer powered by the Groq API, deployable on Vercel.",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "dev:client": "cd client && npm install && npm run dev"
+  }
+}
